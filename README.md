@@ -1,8 +1,8 @@
 # Anurag Shah
-### Email: shah447@purdue.edu
-### GitHub handle: Anurag-Shah
-### LinkedIn: https://www.linkedin.com/in/anurag-shah-68622217b/
-### Phone: 860-801-0885
+##### Email: shah447@purdue.edu
+##### GitHub handle: Anurag-Shah
+##### LinkedIn: https://www.linkedin.com/in/anurag-shah-68622217b/
+##### Phone: 860-801-0885
 
 ## Objective:
 *	Summer Internship opportunity to further develop my abilities in the field of Computer Science.
