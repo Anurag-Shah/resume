@@ -16,7 +16,7 @@ Strengths:
 *	Pursuing a Dual Degree in Computer Science Honors and History, with a minor in Linguistics
 *	Part of the Purdue Honors College
 *	Current GPA of 3.96, at the start of Sophomore year
-  *	GPA of 4.0 during second semester at Purdue and 3.91 during first semester
+    *	GPA of 4.0 during second semester at Purdue and 3.91 during first semester
 *	Awarded Semester Honors and Dean’s List for both semesters at Purdue
 
 ### Previous Internships:
